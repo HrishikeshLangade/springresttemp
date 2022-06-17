@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\user\Documents\workspace-sts-3.9.12.RELEASE\springresttemp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3257434974.index
+3730161280.index
+2028303907.index
+818887140.index
+273552496.index
+935690673.index
